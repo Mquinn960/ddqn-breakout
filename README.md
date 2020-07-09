@@ -1,3 +1,8 @@
+# Atari Breakout DQN example (DDQN)
+
+## From Tensorpack Examples:
+https://github.com/tensorpack/tensorpack/tree/master/examples/DeepQNetwork
+
 ![breakout](breakout.jpg)
 
 [video demo](https://youtu.be/o21mddZtE5Y)
